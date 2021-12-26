@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Absensi Guru</string>
+    <string name="home">Home</string>
+    <string name="absen">Absen</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="login">Login</string>
+    <string name="nip">NIP</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="agama">Agama</string>
+    <string name="pendidikan">Pendidikan</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="status_kepegawaian">Status Kepegawaian</string>
+    <string name="mapel">Mapel</string>
+    <string name="sertifikasi">Sertifikasi</string>
+    <string name="input">Input Data Guru</string>
+    <string name="alamat">Alamat</string>
+    <string-array name="kelamin">
+        <item>Perempuan</item>
+        <item>Laki-Laki</item>
+    </string-array>
+    <string-array name="agama">
+        <item>Budha</item>
+        <item>Islam</item>
+        <item>Hindu</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+    </string-array>
+    <string-array name="pendidikan">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+    <string-array name="sertifikasi">
+        <item>Sudah</item>
+        <item>Belum</item>
+    </string-array>
+</resources>
